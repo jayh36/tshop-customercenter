@@ -1,0 +1,6 @@
+2020-09-14 16:15:49 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RESERVAION_PAGE" not found; SQL statement:
+select * from reservaion_page [42102-199]
+2020-09-14 16:15:56 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RESERVAIONPAGE" not found; SQL statement:
+select * from reservaionPage [42102-199]
